@@ -2,3 +2,8 @@
 2. lage ren kjerne + unit test av denne
 3. lage ny console som bruker kjernen
 4. endre api så det bruker kjernen
+
+5. ev. gjøre det samme med clicker-eksemplet - lage om til api med samme kjerne - bygge enkel frontend
+
+Ev. se på clicker-eksemplet og/eller booking-eksemplet. Gi Terje et bilde av hvor dere er nå 
+- og om vi er klare til neste tema eller skal jobbe mer med ren kjerne
