@@ -1,0 +1,6 @@
+@CalcAge.API_HostAddress = http://localhost:5012
+
+GET {{CalcAge.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

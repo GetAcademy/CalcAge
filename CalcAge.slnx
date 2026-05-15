@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/1 simple version - mix av UI, IO og logikk/">
+    <Project Path="CalcAge.Console/CalcAge.Console.csproj" />
+  </Folder>
+  <Folder Name="/2 core + unit test av core/" />
+  <Folder Name="/3 ny console som bruker core/" />
+  <Folder Name="/4 api/">
+    <Project Path="CalcAge.API/CalcAge.API.csproj" />
+  </Folder>
+  <Folder Name="/todo/">
+    <File Path="todo.txt" />
+  </Folder>
+</Solution>

@@ -1,0 +1,4 @@
+1. lage simple version - gjort
+2. lage ren kjerne + unit test av denne
+3. lage ny console som bruker kjernen
+4. endre api så det bruker kjernen
