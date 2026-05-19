@@ -1,6 +1,6 @@
 1. lage simple version - gjort
-2. lage ren kjerne + unit test av denne
-3. lage ny console som bruker kjernen
+2. lage ren kjerne + unit test av denne - gjort
+3. lage ny console som bruker kjernen - gjort
 4. endre api så det bruker kjernen
 
 5. ev. gjøre det samme med clicker-eksemplet - lage om til api med samme kjerne - bygge enkel frontend

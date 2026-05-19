@@ -2,8 +2,12 @@
   <Folder Name="/1 simple version - mix av UI, IO og logikk/">
     <Project Path="CalcAge.Console/CalcAge.Console.csproj" />
   </Folder>
-  <Folder Name="/2 core + unit test av core/" />
-  <Folder Name="/3 ny console som bruker core/" />
+  <Folder Name="/2 core + unit test av core/">
+    <Project Path="core/core.csproj" Id="dbb90d3c-e793-480a-a6ab-b8474814ca94" />
+  </Folder>
+  <Folder Name="/3 ny console som bruker core/">
+    <Project Path="CalcAgeConsole/CalcAgeConsole.csproj" Id="f527fe83-1b99-41d7-a1a0-3f1c2c14a50e" />
+  </Folder>
   <Folder Name="/4 api/">
     <Project Path="CalcAge.API/CalcAge.API.csproj" />
   </Folder>
